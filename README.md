@@ -1,4 +1,5 @@
 # BPAT: Bi-phase Adaptive Thresholding for mIF Marker Intensities
+![BPAT Overview](bpat.png)
 
 **BPAT** (Bi-phase Adaptive Thresholding) is a systematic and automated thresholding approach to identify marker-positive cells from multiplexed immunofluorescence (mIF) images 
 
